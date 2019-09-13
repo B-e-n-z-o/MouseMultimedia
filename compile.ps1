@@ -4,5 +4,3 @@ function Get-ScriptDirectory {
 }
 
 . "c:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /in $installpath "MouseMultimedia.ahk"  /out $installpath "MouseMultimedia.exe"
-
-$installpath = Get-ScriptDirectory
