@@ -15,6 +15,7 @@ Run compile.ps1 after installing Autohotkey_L
 ```
 
 ## Hotkeys
+`Mouse Button 4 + Scroll`      -- Desktop Switch
 
 `Mouse Button 5 + Scroll` 		 -- Volume
 
