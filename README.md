@@ -1,5 +1,5 @@
 # MouseMultimedia
-
+only windows compatible
 regulate multimedia using the mouse thumb button  
 
 
